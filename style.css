@@ -143,6 +143,7 @@ label {
 select {
   border-radius: 10px;
   height: 6vh;
+  width:12rem;
   outline: none;
   border: 2px solid #2fa5a9;
 }
